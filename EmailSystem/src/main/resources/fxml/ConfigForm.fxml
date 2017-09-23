@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane hgap="10.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="432.0" prefWidth="416.0" stylesheets="@../styleSheet/DarkTheme.css" vgap="10.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ren.userinterface.ConfigController">
+  <columnConstraints>
+    <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="290.0" minWidth="10.0" prefWidth="103.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="453.0" minWidth="10.0" prefWidth="280.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <Label text="%userName" GridPane.rowIndex="1" />
+      <Label text="%userEmail" GridPane.rowIndex="2" />
+      <Label text="%userEmailPass" GridPane.rowIndex="3" />
+      <Label text="%smtpAdd" GridPane.rowIndex="4" />
+      <Label text="%imapAdd" GridPane.rowIndex="5" />
+      <Label text="%smtpPort" GridPane.rowIndex="6" />
+      <Label text="%imapPort" GridPane.rowIndex="7" />
+      <Label text="%dbAdd" GridPane.rowIndex="8" />
+      <Label text="%dbPort" GridPane.rowIndex="9" />
+      <Label text="%dbUser" GridPane.rowIndex="10" />
+      <Label text="%dbPass" GridPane.rowIndex="11" />
+      <TextField fx:id="userNameTB" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <TextField fx:id="userEmailTB" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <PasswordField fx:id="userEmailPassTB" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <TextField fx:id="smtpAddTB" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <TextField fx:id="imapAddTB" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+      <TextField fx:id="smtpPortTB" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+      <TextField fx:id="imapPortTB" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+      <TextField fx:id="dbAddTB" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+      <TextField fx:id="dbPortTB" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+      <TextField fx:id="dbUserTB" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+      <PasswordField fx:id="dbPassTB" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+      <HBox alignment="CENTER" prefHeight="20.0" prefWidth="238.0" GridPane.columnSpan="2">
+         <children>
+            <Label text="%TITLE">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="42.0" prefWidth="395.0" spacing="50.0" GridPane.columnSpan="2" GridPane.rowIndex="12">
+         <children>
+            <Button mnemonicParsing="false" onAction="#saveCongfiguration" prefHeight="30.0" prefWidth="110.0" text="%confirm">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</GridPane>

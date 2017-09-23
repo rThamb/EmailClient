@@ -1,0 +1,1224 @@
+[INFO ] 2016-09-21 21:11:06.940 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Testing Send
+Hi I sent this
+null
+sp33dyrat86@gmail.com
+sp33dyrat86@gmail.com
+C:\Users\Renuchan\Desktop\car2.jpg
+C:\Users\Renuchan\Desktop\cheese.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:11:11.175 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:11:22.050 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:11:23.550 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:11:23.565 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:11:24.472 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:11:24.472 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:11:25.065 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:11:27.144 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:11:27.144 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:11:28.112 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:13:47.235 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Testing Send
+Hi I sent this
+null
+sp33dyrat86@gmail.com
+sp33dyrat86@gmail.com
+C:\Users\Renuchan\Desktop\car2.jpg
+C:\Users\Renuchan\Desktop\cheese.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:13:50.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:04.281 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:14:05.750 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:05.750 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:14:06.719 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:06.719 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:14:08.250 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:08.266 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:14:10.266 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:10.266 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:14:11.172 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:50.922 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:14:53.703 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:53.703 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:14:54.500 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:54.500 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:14:56.344 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:56.360 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:14:58.328 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:14:58.328 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:14:59.297 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:16:19.751 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:16:22.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:16:22.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:16:23.954 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:16:23.954 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:16:25.579 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:16:25.594 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:16:27.751 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:16:27.751 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:16:28.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:34:14.113 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:34:16.691 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:34:16.707 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:34:17.957 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:34:17.957 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:34:19.488 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:34:19.488 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:34:21.582 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:34:21.582 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:34:22.660 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:35:44.520 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:35:47.348 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:35:47.348 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 21:35:48.207 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:35:48.223 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 21:35:50.004 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:35:50.020 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 21:35:52.067 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 21:35:52.067 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-21 21:35:53.020 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 23:44:49.646 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 23:44:52.553 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 23:44:52.568 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-21 23:44:53.678 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 23:44:53.693 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-21 23:44:55.834 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 23:44:55.834 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-21 23:44:58.943 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-21 23:44:58.943 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 16:33:57.264 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:33:59.296 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 16:33:59.389 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:33:59.467 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 16:33:59.577 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 16:34:58.358 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:35:20.358 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 16:35:41.374 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:36:02.452 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 16:39:07.875 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:39:30.047 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 16:39:51.093 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:41:21.953 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:41:25.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:41:25.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 16:41:26.734 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:41:26.734 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:41:28.469 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:41:28.469 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 16:41:34.234 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:41:34.234 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 16:41:35.141 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:53:27.761 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:53:30.458 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:53:30.464 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 16:53:31.298 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:53:31.303 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 16:53:33.004 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:53:33.010 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 16:53:35.077 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 16:53:35.082 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 16:53:36.008 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:04.740 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:156) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:04.763 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:157) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 17:44
+[INFO ] 2016-09-22 17:45:04.764 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:158) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 17:44
+[INFO ] 2016-09-22 17:45:04.765 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:159) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:11.754 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:156) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:11.755 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:157) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 17:44
+[INFO ] 2016-09-22 17:45:11.756 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:158) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 17:44
+[INFO ] 2016-09-22 17:45:11.757 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:159) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:39.196 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 17:45:42.087 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:42.088 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:180) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:42.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:181) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 17:45:42.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:182) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 17:45:42.090 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:183) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:42.096 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 17:45:42.965 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:42.965 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:180) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:42.966 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:181) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-22 17:45:42.967 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:182) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-22 17:45:42.968 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:183) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:42.979 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 17:45:44.583 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:44.584 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:180) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:44.585 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:181) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 17:45:44.586 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:182) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 17:45:44.587 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:183) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:44.597 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 17:45:46.786 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:46.787 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:180) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:46.789 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:181) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-22 17:45:46.790 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:182) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-22 17:45:46.791 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:183) - --------------------------------------------------
+
+[INFO ] 2016-09-22 17:45:46.796 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 17:45:47.738 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 17:45:47.739 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:180) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 17:45:47.740 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:181) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-22 17:45:47.742 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:182) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-22 17:45:47.743 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:183) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:05:29.228 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 19:05:32.251 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 19:05:32.251 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:204) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:05:32.252 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:205) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 19:05:32.253 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:206) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 19:05:32.253 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:207) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:05:32.258 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-22 19:05:33.117 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 19:05:33.117 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:204) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:05:33.118 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:205) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-22 19:05:33.119 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:206) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-22 19:05:33.119 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:207) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:05:33.127 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+C:\Users\Renuchan\Desktop\car2.jpg,C:\Users\Renuchan\Desktop\car1.jpg
+[INFO ] 2016-09-22 19:05:35.628 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 19:05:35.629 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:204) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:05:35.630 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:205) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 19:05:35.631 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:206) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-22 19:05:35.631 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:207) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:05:35.641 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+C:\Users\Renuchan\Desktop\car1.jpg,C:\Users\Renuchan\Desktop\cheese.jpg
+[INFO ] 2016-09-22 19:05:37.730 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 19:05:37.730 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:204) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:05:37.732 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:205) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-22 19:05:37.733 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:206) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-22 19:05:37.734 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:207) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:05:37.740 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-22 19:05:38.797 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-22 19:05:38.798 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:204) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:05:38.799 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:205) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-22 19:05:38.801 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:206) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-22 19:05:38.802 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:207) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:07:54.264 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:156) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:07:54.268 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:157) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:07
+[INFO ] 2016-09-22 19:07:54.268 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:158) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:07
+[INFO ] 2016-09-22 19:07:54.269 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:159) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:08:01.377 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:156) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:08:01.378 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:157) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:07
+[INFO ] 2016-09-22 19:08:01.379 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:158) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:07
+[INFO ] 2016-09-22 19:08:01.380 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:159) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:24:27.735 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:24:27.741 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:27.742 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:27.743 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:24:35.083 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:24:35.083 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:35.084 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:35.085 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:24:43.827 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:24:43.828 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com*car1.jpg*inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:43.832 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com*car1.jpg*inbox*Thu Sep 22 19:24
+[INFO ] 2016-09-22 19:24:43.833 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:26:14.704 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:205) - Send success
+[INFO ] 2016-09-22 19:26:18.472 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:26:18.473 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:18.474 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:18.475 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:26:22.697 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:205) - Send success
+[INFO ] 2016-09-22 19:26:25.833 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:26:25.834 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:25.835 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:25.836 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-22 19:26:30.840 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:205) - Send success
+[INFO ] 2016-09-22 19:26:34.291 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:186) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-22 19:26:34.292 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:187) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com*car1.jpg*inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:34.292 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:188) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com*car1.jpg*inbox*Thu Sep 22 19:26
+[INFO ] 2016-09-22 19:26:34.293 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:189) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:11.438 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:06:14.891 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:14.891 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:06
+[INFO ] 2016-09-23 10:06:14.891 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:06
+[INFO ] 2016-09-23 10:06:14.891 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:19.641 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:06:23.345 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:23.345 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:06
+[INFO ] 2016-09-23 10:06:23.345 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:06
+[INFO ] 2016-09-23 10:06:23.345 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:27.891 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:06:30.860 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+
+[INFO ] 2016-09-23 10:06:31.844 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:06:31.844 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:31.844 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-23 10:06:31.844 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:06:31.844 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:31.844 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-23 10:06:32.860 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:06:32.860 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:32.860 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:06:32.860 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:06:32.860 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:32.860 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+
+[INFO ] 2016-09-23 10:06:33.876 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:06:33.876 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:33.876 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-23 10:06:33.876 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:06:33.876 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:33.876 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:06:34.813 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:06:34.813 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:34.813 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-23 10:06:34.813 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:06:34.813 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:06:34.813 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:06:35.891 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:06:35.891 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:06:35.891 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:06:35.907 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:06:35.907 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:14:41.333 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:14:44.786 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:14:44.786 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:14:44.786 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:14:44.786 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:14:49.474 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:14:53.037 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:14:53.037 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:14:53.037 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:14:53.037 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:14:57.693 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:15:01.005 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:01.005 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:15:01.005 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:14
+[INFO ] 2016-09-23 10:15:01.005 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:15:14.124 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+
+[INFO ] 2016-09-23 10:15:15.483 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:15:15.483 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:15.483 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World**car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-23 10:15:15.483 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:15:15.483 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:15:15.483 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-23 10:15:16.577 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:15:16.577 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:16.577 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:15:16.577 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:15:16.577 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:15:16.577 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+
+[INFO ] 2016-09-23 10:15:17.624 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:15:17.624 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:17.624 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com*car2.jpg,car1.jpg*sent
+[INFO ] 2016-09-23 10:15:17.624 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:15:17.624 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:15:17.640 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:15:18.608 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:15:18.608 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:18.608 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>**car1.jpg,cheese.jpg*sent
+[INFO ] 2016-09-23 10:15:18.608 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:15:18.608 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:15:18.608 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:15:19.749 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:15:19.749 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:208) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:15:19.749 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:209) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:15:19.749 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:15:19.749 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:18:09.714 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+
+[INFO ] 2016-09-23 10:18:11.135 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:18:11.135 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:18:11.135 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:18:11.135 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:18:11.135 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:18:11.135 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-23 10:18:12.089 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:18:12.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:18:12.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:18:12.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:18:12.089 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:18:12.089 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+
+[INFO ] 2016-09-23 10:18:13.354 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:18:13.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:18:13.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:18:13.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:18:13.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:18:13.354 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:18:14.354 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:18:14.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:18:14.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:18:14.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:18:14.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:18:14.354 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:18:15.354 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:18:15.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:18:15.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:18:15.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:18:15.354 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:13.733 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:24:17.202 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:17.202 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:17.202 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*HEy man what up*Life is great now***inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:17.217 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:21.780 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:24:25.374 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:25.374 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:25.374 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:25.374 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:30.186 [main] JunitTests.EmailClientTests.ReceiveEmailTest.sendTestEmail(ReceiveEmailTest.java:212) - Send success
+[INFO ] 2016-09-23 10:24:33.577 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:193) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:33.577 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:194) - Expected
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:33.577 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:195) - Obtain
+sp33dycow86@gmail.com*sp33dyrat86@gmail.com*LOL*REKT*master_doomknight@hotmail.com**inbox*Fri Sep 23 10:24
+[INFO ] 2016-09-23 10:24:33.577 [main] JunitTests.EmailClientTests.ReceiveEmailTest.checkReceivedMails(ReceiveEmailTest.java:196) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:48.866 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+
+
+
+
+[INFO ] 2016-09-23 10:24:50.335 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:24:50.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:50.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:24:50.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:24:50.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:50.335 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+null
+null
+null
+null
+null
+[INFO ] 2016-09-23 10:24:51.335 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:24:51.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:51.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:24:51.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World***sent
+[INFO ] 2016-09-23 10:24:51.335 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:51.335 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+
+
+
+[INFO ] 2016-09-23 10:24:52.413 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:24:52.413 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:52.413 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:24:52.413 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World*sp33dycow86@gmail.com,sp33dyrat86@gmail.com**sent
+[INFO ] 2016-09-23 10:24:52.413 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:52.429 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:24:53.366 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:24:53.366 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:53.366 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:24:53.366 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:24:53.366 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
+[INFO ] 2016-09-23 10:24:53.366 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:79) - Sending Email with info: 
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com
+Yo test
+Hello World
+<html><body><h1>My</h1><p>My first paragraph.</p></body></html>
+
+
+
+
+[INFO ] 2016-09-23 10:24:54.460 [main] com.ren.emailsystem.EmailClient.sendEmail(EmailClient.java:94) - Send Success
+[INFO ] 2016-09-23 10:24:54.460 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:210) - ------------------- TEST CASE -------------------------------
+[INFO ] 2016-09-23 10:24:54.460 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:211) - Expected
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:24:54.460 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:212) - Obtain
+sp33dycow86@gmail.com,sp33dyrat86@gmail.com*sp33dycow86@gmail.com*Yo test*Hello World<html><body><h1>My</h1><p>My first paragraph.</p></body></html>***sent
+[INFO ] 2016-09-23 10:24:54.476 [main] JunitTests.EmailClientTests.SendMailTest.sendTest(SendMailTest.java:213) - --------------------------------------------------
+
